@@ -6,6 +6,7 @@ public class javatest {
 		
 		System.out.println("hello world");
 		System.out.println("bas hier!");
+		System.out.println("ruben hoi");
 	}
 
 }
